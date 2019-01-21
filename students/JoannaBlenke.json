@@ -1,0 +1,14 @@
+{
+  "firstName": "Joanna",
+  "lastName": "Blenke",
+  "nickName": "Jo",
+  "privateName": false,
+  "picture": "images/joannablenke.jpg",
+  "privatePicture": false,
+  "email": "joanna.blenke@utoronto.ca",
+  "privateEmail": false,
+  "github": "joannablenke",
+  "privateGithub": false,
+  "superpower" : "Shape shifting aka sarcasm",
+  "academicinterests": "mostly cats"
+}
